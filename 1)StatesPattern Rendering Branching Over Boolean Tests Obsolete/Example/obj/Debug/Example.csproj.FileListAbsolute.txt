@@ -1,0 +1,6 @@
+C:\Users\Karol\Desktop\objective csharp\1) Rendering Branching Ober Boolean Tests Obsolete\Example\bin\Debug\Example.exe.config
+C:\Users\Karol\Desktop\objective csharp\1) Rendering Branching Ober Boolean Tests Obsolete\Example\bin\Debug\Example.exe
+C:\Users\Karol\Desktop\objective csharp\1) Rendering Branching Ober Boolean Tests Obsolete\Example\bin\Debug\Example.pdb
+C:\Users\Karol\Desktop\objective csharp\1) Rendering Branching Ober Boolean Tests Obsolete\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+C:\Users\Karol\Desktop\objective csharp\1) Rendering Branching Ober Boolean Tests Obsolete\Example\obj\Debug\Example.exe
+C:\Users\Karol\Desktop\objective csharp\1) Rendering Branching Ober Boolean Tests Obsolete\Example\obj\Debug\Example.pdb
