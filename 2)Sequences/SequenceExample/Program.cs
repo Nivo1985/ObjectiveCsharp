@@ -8,16 +8,11 @@ namespace SequenceExample
 {
     class Program
     {
-        private static IPainter FindCheapest(int area, IEnumerable<IPainter> painters)
-        {
-            return painters
-                .Where(x => x.IsAvaliable)
-                .WithMinimum(x => x.EstiamteValue(area));
-
-        }
-
         static void Main(string[] args)
         {
+            IEnumerable<ProportionalPainter> painters = new ProportionalPainter[3];
+
+            IPainter painter = CompositePainterFactories.CreateGroup(painters);
         }
     }
 }

@@ -6,6 +6,6 @@ namespace SequenceExample
     {
         bool IsAvaliable { get; }
         TimeSpan EstimateTime(int area);
-        int EstiamteValue(int area);
+        double EstimateValue(int area);
     }
 }

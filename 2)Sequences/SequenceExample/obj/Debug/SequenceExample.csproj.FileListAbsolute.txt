@@ -1,1 +1,6 @@
 C:\Users\Karol\Desktop\ObjectiveCsharp\2)Sequences\SequenceExample\bin\Debug\SequenceExample.exe.config
+C:\Users\Karol\Desktop\ObjectiveCsharp\2)Sequences\SequenceExample\bin\Debug\SequenceExample.exe
+C:\Users\Karol\Desktop\ObjectiveCsharp\2)Sequences\SequenceExample\bin\Debug\SequenceExample.pdb
+C:\Users\Karol\Desktop\ObjectiveCsharp\2)Sequences\SequenceExample\obj\Debug\SequenceExample.csprojResolveAssemblyReference.cache
+C:\Users\Karol\Desktop\ObjectiveCsharp\2)Sequences\SequenceExample\obj\Debug\SequenceExample.exe
+C:\Users\Karol\Desktop\ObjectiveCsharp\2)Sequences\SequenceExample\obj\Debug\SequenceExample.pdb
