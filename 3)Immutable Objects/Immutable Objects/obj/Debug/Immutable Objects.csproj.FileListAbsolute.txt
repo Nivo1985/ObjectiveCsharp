@@ -1,0 +1,6 @@
+C:\Users\Karol\Desktop\ObjectiveCsharp\3)Immutable Objects\Immutable Objects\bin\Debug\Immutable Objects.exe.config
+C:\Users\Karol\Desktop\ObjectiveCsharp\3)Immutable Objects\Immutable Objects\bin\Debug\Immutable Objects.exe
+C:\Users\Karol\Desktop\ObjectiveCsharp\3)Immutable Objects\Immutable Objects\bin\Debug\Immutable Objects.pdb
+C:\Users\Karol\Desktop\ObjectiveCsharp\3)Immutable Objects\Immutable Objects\obj\Debug\Immutable Objects.csprojResolveAssemblyReference.cache
+C:\Users\Karol\Desktop\ObjectiveCsharp\3)Immutable Objects\Immutable Objects\obj\Debug\Immutable Objects.exe
+C:\Users\Karol\Desktop\ObjectiveCsharp\3)Immutable Objects\Immutable Objects\obj\Debug\Immutable Objects.pdb
